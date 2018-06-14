@@ -1,7 +1,7 @@
 # mlmc-library
 MLMC Library
 
-*This software provides a modular structure and library of files as a base to conduct MLMC research. The code here reproduces the work in Giles (2015) and was designed to be easily adapated for other applications.
+*This software provides a modular structure and library of files as a base to conduct MLMC research. The code here reproduces the work in Giles (2015) and was designed to be easily adapated for other applications.*
 
 Copyright 2018 Sherry L. Forbes and Stormfish Scientific Corporation
 
